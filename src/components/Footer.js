@@ -120,7 +120,7 @@ class Footer extends Component {
                                         <span className="bg-warning p-2 rounded mr-3">
                                             <FontAwesomeIcon icon="phone" className="text-white" />
                                         </span>
-                                        <span>+1 321 828 6662</span>
+                                        <span>+254 712 456 124</span>
                                     </li>
                                     <li className="pb-3">
                                         <span className="bg-warning p-2 rounded mr-3">
@@ -137,7 +137,7 @@ class Footer extends Component {
                 {/* Footer Copyright Section */}
                 <div className="container">
                     <div className="col-12 footer-copyright">
-                        <p>© 2019 Quick Food. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>Fahad Ahmed</span></p>
+                        <p>© 2019 Quick Food. All Rights Reserved. <span style={{ color: "#eb6825", fontWeight: 700 }}></span></p>
                     </div>
                 </div>
             </div>
