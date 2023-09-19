@@ -69,7 +69,7 @@ export default function Footer() {
           </ul>
 
           <p className="copy">© 2023 Nerko. All rights reserved.</p>
-          <p className="credit">Coded with 💜 by <a href="https://github.com/s-shemmee" target="_blank" rel="noopener noreferrer">@s-shemmee</a></p>
+          <p className="credit">Made with 💜 by <a href="#" target="_blank" rel="noopener noreferrer">Jasper</a></p>
         </div>
       </div>
     </section>
