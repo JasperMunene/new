@@ -23,7 +23,7 @@ const FooterLink = ({ href, text }) => (
 const socialLinks = [
   { href: "https://twitter.com", iconClass: "bi bi-twitter" },
   { href: "https://discord.com", iconClass: "bi bi-discord" },
-  { href: "https://www.instagram.com/definfts/", iconClass: "bi bi-instagram" },
+  { href: "https://www.instagram.com", iconClass: "bi bi-instagram" },
   { href: "https://facebook.com", iconClass: "bi bi-facebook" },
   { href: "https://youtube.com", iconClass: "bi bi-youtube" },
 ];
@@ -50,7 +50,7 @@ export default function Footer() {
             </h1>
             <p className="subtitle">Invest and manage all your NFTs at one place.</p>
             <div className="cta">
-              <a href="https://discord.gg/3Qq9VJ6Z" target="_blank" rel="noopener noreferrer">
+              <a href="https://discord.com" target="_blank" rel="noopener noreferrer">
                 Join Discord
               </a>
             </div>
